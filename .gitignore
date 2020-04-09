@@ -1,0 +1,16 @@
+.eggs/
+*.pyc
+*.swp
+*.pyo
+*.class
+*~
+*#
+/runpy
+/build
+/.idea
+/dist
+/out
+.eggs/
+*.DS_Store
+.cache/
+*.egg-info
